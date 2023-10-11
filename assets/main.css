@@ -1,0 +1,36 @@
+.navbar{
+    width: 97%;
+    height: 45px;
+    border: solid;
+    padding: 4px 20px;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    padding-top: 5px;
+    
+}
+
+.navdiv a {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-left: 3px;
+    padding: 4px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 0px 10px;
+
+}
